@@ -1,0 +1,57 @@
+.view {
+  font-size: 1.3rem;
+  margin: 5rem 4rem 0rem 5rem;
+  
+}
+.showview {
+  margin-bottom: 5rem;
+  width: 100%;
+}
+.show {
+  width: 80%;
+}
+.showbox {
+  width: 320px;
+  border: 1px solid rgb(167, 166, 166);
+  padding: 8px;
+  margin: 15px;
+  border-radius: 10%;
+  word-spacing: 4rem;
+}
+.search {
+  margin-left: 67%;
+
+}
+input{
+    border-radius:10px;
+}
+
+.table {
+  border: 1px solid #ddd;
+}
+.trow :hover {
+  background-color: #747bab;
+  color: white;
+}
+tr:nth-child(even) {
+  background-color: #e4e4e4;
+}
+
+.butomview {
+  display: flex;
+  margin-top: 2%;
+}
+.pagebuttons {
+  margin-left: 63%;
+  margin-bottom: 15rem;
+}
+.Ficon{
+    /* width: 35px;
+  height: 33px; */
+  position: relative;
+  color:rgb(200, 192, 192);
+  margin-left: 120px;
+  fill: #fff;
+}
+
+
